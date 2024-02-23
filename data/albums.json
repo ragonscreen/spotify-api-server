@@ -1,0 +1,149 @@
+[
+    {
+        "spotifyID": "3mH6qwIy9crq0I9YQbOuDf",
+        "date": "09/11/23",
+        "title": "Blonde",
+        "rating": "S",
+        "topTracks": [
+            { "title": "White Ferrari" },
+            { "title": "Self Control" },
+            { "title": "Pink + White" }
+        ]
+    },
+    {
+        "featured": true,
+        "spotifyID": "0k7ALIqqds5oGFtpMsaHLK",
+        "date": "12/02/24",
+        "title": "VULTURES 1",
+        "rating": "S",
+        "topTracks": [
+            { "title": "CARNIVAL" },
+            { "title": "BACK TO ME" },
+            { "title": "PROBLEMATIC" }
+        ]
+    },
+    {
+        "spotifyID": "5HOHne1wzItQlIYmLXLYfZ",
+        "date": "04/01/24",
+        "title": "Did you know that there's a tunnel under Ocean Blvd",
+        "rating": "S",
+        "topTracks": [
+            { "title": "Fishtail" },
+            { "title": "Sweet" },
+            { "title": "A&W" }
+        ]
+    },
+    {
+        "spotifyID": "2mxFsS5yylSTHNivV53HoA",
+        "date": "09/12/23",
+        "title": "Cigarettes After Sex",
+        "rating": "S",
+        "topTracks": [
+            { "title": "Sweet", "firstListen": false },
+            { "title": "Sunsetz" },
+            { "title": "K." }
+        ]
+    },
+    {
+        "spotifyID": "4uQ5kFmXQdCxz3WvM4UUzy",
+        "date": "13/12/23",
+        "title": "Cry",
+        "rating": "S",
+        "topTracks": [
+            { "title": "Heavenly", "firstListen": false },
+            { "title": "Touch" },
+            { "title": "Cry" }
+        ]
+    },
+    {
+        "spotifyID": "1ORxRsK3MrSLvh7VQTF01F",
+        "date": "21/01/24",
+        "title": "Ultraviolence (Deluxe)",
+        "rating": "S",
+        "topTracks": [
+            { "title": "The Other Woman" },
+            { "title": "Cruel World" },
+            { "title": "Money Power Glory" }
+        ]
+    },
+    {
+        "spotifyID": "5wtE5aLX5r7jOosmPhJhhk",
+        "date": "04/12/23",
+        "title": "Swimming",
+        "rating": "S",
+        "topTracks": [
+            { "title": "Ladders" },
+            { "title": "So It Goes" },
+            { "title": "Self Care" }
+        ]
+    },
+    {
+        "spotifyID": "0ptlfJfwGTy0Yvrk14JK1I",
+        "date": "20/11/23",
+        "title": "If You're Reading This It's Too Late",
+        "rating": "S",
+        "topTracks": [
+            { "title": "Jungle", "firstListen": false },
+            { "title": "Energy", "firstListen": false },
+            { "title": "6PM In New York" }
+        ]
+    },
+    {
+        "spotifyID": "5XpEKORZ4y6OrCZSKsi46A",
+        "date": "07/01/24",
+        "title": "Norman Fucking Rockwell!",
+        "rating": "S",
+        "topTracks": [
+            {
+                "title": "hope is a dangerous thing for a woman like me to have - but i have it"
+            },
+            { "title": "Venice Bitch" },
+            { "title": "The greatest" }
+        ]
+    },
+    {
+        "featured": true,
+        "spotifyID": "6ViO9Wx6dWzeUq6DmGTaHl",
+        "date": "17/02/24",
+        "title": "I NEVER LIKED YOU",
+        "rating": "S",
+        "topTracks": [
+            { "title": "KEEP IT BURNIN" },
+            { "title": "712PM" },
+            { "title": "I'M ON ONE" }
+        ]
+    },
+    {
+        "spotifyID": "7xYiTrbTL57QO0bb4hXIKo",
+        "date": "24/01/24",
+        "title": "Lust For Life",
+        "rating": "S",
+        "topTracks": [
+            { "title": "Cherry" },
+            { "title": "Change" },
+            { "title": "Groupie Love" }
+        ]
+    },
+    {
+        "spotifyID": "2oI6gtIXrvNiL2VEMmj5kY",
+        "date": "14/01/24",
+        "title": "DiCaprio 2",
+        "rating": "S",
+        "topTracks": [
+            { "title": "Off Deez" },
+            { "title": "151 Rum" },
+            { "title": "Tiiied" }
+        ]
+    },
+    {
+        "spotifyID": "1lXY618HWkwYKJWBRYR4MK",
+        "date": "16/12/23",
+        "title": "More Life",
+        "rating": "S",
+        "topTracks": [
+            { "title": "Passionfruit", "firstListen": false },
+            { "title": "Madiba Riddim" },
+            { "title": "Get It Together" }
+        ]
+    }
+]
